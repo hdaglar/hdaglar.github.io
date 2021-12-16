@@ -6,7 +6,7 @@ permalink: /publications/
 
 12- Orhan I., **Daglar H.**, Keskin S., Le, T., Babarao, R. (2022) *Prediction of O2/N2 Selectivity in MOFs via High-throughput computational screening and machine learning.* Accepted at **ACS Applied Materials & Interfaces.**
 
-11- **Daglar H.**, Aydin S., Keskin S. (2022) *MOF-based MMMs breaking the upper bounds of polymers for a large variety of gas separations.* Published at **Separation and Purification Technology.**
+11- **Daglar H.**, Aydin S., Keskin S. (2022) [*MOF-based MMMs breaking the upper bounds of polymers for a large variety of gas separations.*](https://www.sciencedirect.com/science/article/pii/S1383586621015185) Published at **Separation and Purification Technology.**
 
 10- **Daglar H.**, Erucar I.,  Keskin S. (2021) *Recent Advances in Simulating Gas Permeation through MOF Membranes.* Published at** Materials Advances.**
 
