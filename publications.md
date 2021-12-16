@@ -7,7 +7,6 @@ permalink: /publications/
 12- Orhan I., **Daglar H.**, Keskin S., Le, T., Babarao, R. (2022) *Prediction of O2/N2 Selectivity in MOFs via High-throughput computational screening and machine learning.* Accepted at **ACS Applied Materials & Interfaces.**
 
 11- **Daglar H.**, Aydin S., Keskin S. (2022) *MOF-based MMMs breaking the upper bounds of polymers for a large variety of gas separations.* Published at **Separation and Purification Technology.**
-
 10- **Daglar H.**, Erucar I.,  Keskin S. (2021) *Recent Advances in Simulating Gas Permeation through MOF Membranes.* Published at** Materials Advances.**
 
 9- **Daglar H.**, Gulbalkan H.C., Avci G., Aksu G.O., Altundal O.F., Altintas C., Erucar I., Keskin S. (2021) *Effect of MOF Database Selection on the Assessment of Gas Storage and Separation Potentials of MOFs.* Published at **Angewandte Chemie.**
@@ -19,7 +18,7 @@ permalink: /publications/
 6- **Daglar H.**, Keskin S. (2020) *Recent Advances, Opportunities, and Challenges in High-Throughput Computational Screening of MOFs for Gas Separations.* Published at **Coordination Chemistry Reviews.** (Selected to special issue of “Rising stars in chemistry of metal-organic frameworks”)
 
 5- **Daglar H.** and Keskin S. (2019). *High-throughput Screening of MOFs as Fillers in Mixed Matrix Membranes for Flue Gas Separation.* Published at **Advanced Theory and Simulations** (Special Issue: Frontiers in Modeling Metal–Organic Frameworks)
-
+ 
 4- Altintas, C., Avci, G., **Daglar, H.**, Azar, A., Erucar, I., Velioglu, S., Keskin, S. (2019) *An extensive Comparative Analysis of Two MOF Databases: High-Throughput Screening of Computation-Ready MOFs for CH4 and H2 Adsorption.* Published at **Journal of Materials Chemistry A.** (Equal contribution)
 
 3- **Daglar, H.**, Keskin, S. (2018) *Computational Screening of MOFs for Membrane-based CO2/N2/H2O Separations: Best Materials for Flue Gas Separation.* Published at **Journal of Physical Chemistry C. **
