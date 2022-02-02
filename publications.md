@@ -22,7 +22,7 @@ permalink: /publications/
  
 - Altintas, C., Avci, G., **Daglar, H.**, Azar, A., Erucar, I., Velioglu, S., Keskin, S. (2019) *An extensive Comparative Analysis of Two MOF Databases: High-Throughput Screening of Computation-Ready MOFs for CH4 and H2 Adsorption.* Published at **Journal of Materials Chemistry A.** (Equal contribution)
 
-- **Daglar, H.**, Keskin, S. (2018) *Computational Screening of MOFs for Membrane-based CO2/N2/H2O Separations: Best Materials for Flue Gas Separation.* Published at **Journal of Physical Chemistry C **
+- **Daglar, H.**, Keskin, S. (2018) *Computational Screening of MOFs for Membrane-based CO2/N2/H2O Separations: Best Materials for Flue Gas Separation.*  Published at **Journal of Physical Chemistry C.**
 
 - Altintas, C., Avci, G., **Daglar, H.**, Azar, A., Velioglu, S., Erucar, I., Keskin, S. (2018) *Database for CO2 Separation Performances of MOFs Based on Computational Materials Screening.* Published at **ACS Applied Materials Interfaces.** (Equal contribution)
 
