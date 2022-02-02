@@ -8,7 +8,7 @@ permalink: /publications/
 
 - **Daglar H.**, Aydin S., Keskin S. (2022) [*MOF-based MMMs breaking the upper bounds of polymers for a large variety of gas separations.*](https://www.sciencedirect.com/science/article/pii/S1383586621015185) Published at **Separation and Purification Technology.**
 
-- **Daglar H.**, Erucar I.,  Keskin S. (2021) *Recent Advances in Simulating Gas Permeation through MOF Membranes.* Published at **Materials Advances.**
+- **Daglar H.**, Erucar I.,  Keskin S. (2021) [*Recent Advances in Simulating Gas Permeation through MOF Membranes.*] (https://pubs.rsc.org/en/Content/ArticleLanding/2021/MA/D1MA00026H) Published at **Materials Advances.**
 
 - **Daglar H.**, Gulbalkan H.C., Avci G., Aksu G.O., Altundal O.F., Altintas C., Erucar I., Keskin S. (2021) *Effect of MOF Database Selection on the Assessment of Gas Storage and Separation Potentials of MOFs.* Published at **Angewandte Chemie.**
 
